@@ -1,0 +1,20 @@
+{
+  "name": "js-tutorial",
+  "version": "1.0.0",
+  "description": "My tutorial",
+  "main": "index.js",
+  "scripts": {
+    "build": "gitbook build",
+    "serve": "gitbook serve"
+  },
+  "keywords": [
+    "react",
+    "tutorial"
+  ],
+  "author": "Denis Zhuravlev",
+  "license": "ISC",
+  "dependencies": {
+    "gitbook": "^2.6.9",
+    "gitbook-cli": "^2.3.2"
+  }
+}
