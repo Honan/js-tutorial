@@ -2,5 +2,6 @@
 
 * [Введение](README.md)
 * Прототипы
-  * [Prototype](prototype.md)
+  * [Прототипы](prototype.md)
   * [Создание объектов и прототипов](creation objects and prototypes.md)
+  * Наследование(inheritance.md)
