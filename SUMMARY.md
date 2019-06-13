@@ -1,6 +1,7 @@
 # Summary
 
 * [Введение](README.md)
+* [Функции](function.md)
 * [Замыкание](closures.md)
 * Прототипы
   * [Прототипы](prototype.md)
